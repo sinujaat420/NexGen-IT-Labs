@@ -1,4 +1,4 @@
-<!-- Instructions for Staff : 
+Instructions for Staff : 
 
 1. clone repo with - git clone git clone https://github.com/sinujaat420/NexGen-IT-Labs.git
 2. cd .\NexGen-IT-Labs\
@@ -11,7 +11,7 @@
 Always delete backend node modules before uploading
 Use maximum values of name , ownership , entry  , links and connections in .env
 These commands are sufficient after invitation not use anything else without permission. , always try to pull the code so that no col on main branch.
- -->
+
 
 ========================================================================================================================================================================
 
