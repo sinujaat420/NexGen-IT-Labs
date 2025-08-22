@@ -8,6 +8,7 @@
 6. git commit -m "Updated [Date]"
 7. git push 
 
+Always delete backend node modules before uploading
 Use maximum values of name , ownership , entry  , links and connections in .env
 These commands are sufficient after invitation not use anything else without permission. , always try to pull the code so that no col on main branch.
  -->
